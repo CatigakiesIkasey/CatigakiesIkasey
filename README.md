@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my self-study website**
 
-- 🌱 I’m currently learning **college, still learn basic HTML, CSS, Phyton, PHP**
+- 🌱 I’m currently learning **basic HTML, CSS, Phyton, PHP**
 
 - 🤝 I’m looking for help with **my homework**
 
