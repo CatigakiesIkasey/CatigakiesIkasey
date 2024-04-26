@@ -1,4 +1,4 @@
-[!(Master Head)(https://cdnb.artstation.com/p/assets/images/images/037/609/505/large/kenze-wee-popeyescommissiontwitterbanner.jpg?1620831315)]
+[!(Master Head)(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <h3 align="center">A passionate college student from Indonesia</h3>
 <img align="right" alt="Programmer Day" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
