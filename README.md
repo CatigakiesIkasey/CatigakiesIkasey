@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my self-study website**
 
-- 🌱 I’m currently learning **college, still learn basic like HTML, CSS, Phyton, PHP**
+- 🌱 I’m currently learning **college, still learn basic HTML, CSS, Phyton, PHP**
 
 - 🤝 I’m looking for help with **my homework**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_catigakies_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_catigakies_" height="30" width="40" /></a>
+<a href="https://instagram.com/_nojustno_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_catigakies_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
