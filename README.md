@@ -1,4 +1,4 @@
-[!(Master Head)](https://www.behance.net/gallery/182262115/Alley-of-Wicked)]
+[!(Master Head)](https://cdna.artstation.com/p/assets/images/images/037/041/602/original/kenze-wee-sworrsingle2artanimated1050x1050px-varian2t.gif?1619327059)]
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <h3 align="center">A passionate college student from Indonesia</h3>
 <img align="right" alt="Programmer Day" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
