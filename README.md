@@ -1,7 +1,7 @@
-[!(Master Head)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FYQgT&psig=AOvVaw3x5csBY94sOuVLh-J1pumz&ust=1714231820949000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCe066Z4IUDFQAAAAAdAAAAABAE)]
+[!(Master Head)]()]
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <h3 align="center">A passionate college student from Indonesia</h3>
-<img align="right" alt="Programmer Day" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fprogrammer-day-porforever--313985405251921509%2F&psig=AOvVaw2wiSQi_ZImzRHVSVKXWilz&ust=1714231381168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD6q-aX4IUDFQAAAAAdAAAAABAg">
+<img align="right" alt="Programmer Day" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🔭 I’m currently working on **my self-study website**
 
