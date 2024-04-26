@@ -1,5 +1,7 @@
+[!(Master Head)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fh958582012%2Fpixel-art-gif%2F&psig=AOvVaw38R0IRz0VJdXZ31izpEhIq&ust=1714230670049000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDPnIWV4IUDFQAAAAAdAAAAABAR)]
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <h3 align="center">A passionate college student from Indonesia</h3>
+<img align="right" alt="Programmer Day" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fprogrammer-day-porforever--313985405251921509%2F&psig=AOvVaw2wiSQi_ZImzRHVSVKXWilz&ust=1714231381168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD6q-aX4IUDFQAAAAAdAAAAABAg">
 
 - 🔭 I’m currently working on **my self-study website**
 
