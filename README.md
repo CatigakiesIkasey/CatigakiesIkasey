@@ -1,7 +1,7 @@
 ![Master Head](https://cdnb.artstation.com/p/assets/images/images/045/784/971/large/tyrunz-artstation-banner-export-final.jpg?1643547830)
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <h3 align="center">A Passionate College Student from Indonesia</h3>
-<img align="right" alt="Programmer Day" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="Programmer Day" width="300" src="https://cdna.artstation.com/p/assets/images/images/073/492/620/original/umer-ahmed-developer-gif-animation.gif?1709777705">
 
 - 🔭 I’m currently working on **my self-study website**
 
